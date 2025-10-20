@@ -51,7 +51,8 @@ Specifically, **Table 2** from this paper was used to construct the **contact ma
 ---
 
 ##  Bibliography
+- Epskamp, S., Borsboom, D., & Fried, E. I. (2018). *Estimating Psychological Networks and Their Accuracy: A Tutorial Paper.* Behavior Research Methods, 50(1), 195–212.
 
-- David, S. J. et al. (2018). *Intraindividual Dynamic Network Analysis: Implications for Clinical Assessment.*  
-- Epskamp, S. et al. (2018). *Estimating Psychological Networks and Their Accuracy.*  
-- Epskamp, S. et al. (2018). *Personalized Network Modeling in Psychopathology.*
+- Epskamp, S., Waldorp, L. J., Mõttus, R., & Borsboom, D. (2018). *Personalized Network Modeling in Psychopathology: The Importance of Contemporaneous and Temporal Connections.* Journal of Abnormal Psychology, 127(1), 1–17.
+
+- David, S. J., Marshall, A. J., Evanovich, E. K., & Mumma, G. H. (2018). *Intraindividual Dynamic Network Analysis: Implications for Clinical Assessment.* Journal of Psychopathology and Behavioral Assessment, 40(2), 235–248.
