@@ -32,7 +32,24 @@ The data used in this project are derived from:
 
 Specifically, **Table 2** from this paper was used to construct the **contact matrices** included in the notebook.
 
+## Project structure
 
+
+• Constructed sets of differential equations inspired by the compartmental SIR model,
+making hypotheses about the dynamics
+• The lag-1 correlation matrix was used as a proxy for contagion probability between
+nodes, as suggested in the reference paper
+• Contagion probability is heterogeneous and incorporated into contact matrices
+• Simulated symptom dynamics by activating different types of nodes according to various
+centrality metrics
+• Introducted:
+• Random node activation every 10 time steps
+• Node removal every 300 time steps, simulating the potential effects
+of psychotherapeutic interventions
+• Explored how the order of node removal affects the number of activated nodes over time
+
+Note: These simulations are for illustrative modeling purposes only. The
+assumptions made do not reflect real-life conditions.
 
 ##  Repository Structure
 
